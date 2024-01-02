@@ -73,4 +73,4 @@ Showing the options available to students for accessing their verified records p
 
  4) Import Ganache details into Metamask.
 
- 5)Access the application locally at "localhost:3000"
+  5)Access the application locally at "localhost:3000"
