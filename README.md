@@ -19,27 +19,35 @@ This project tackles the critical issue of securely storing and sharing educatio
     * Heroku (React DApp),
     * Infura (Blockchain),
     * Metamask.
-### SYSTEM DESIGN & ARCHITECTURE
 
-![Working](/images/1.png)
 
-#### The login-in interface for student and institute
+#### The login-in interface for student and institute:
+
+Showcasing the entry point for users to access their respective dashboards.
 
 ![The login-in interface for student and institute](/images/5.png)
 
-#### The student dashboard to apply for records
+#### The student dashboard to apply for records:
+
+Illustrating the interface where students can apply for and manage their records.
 
 ![The student dashboard to apply for records](/images/2.png)
 
-####  Spending ether on transaction using Metamask
+####  Spending ether on transaction using Metamask:
+
+Depicting the process of using Ether for transactions within the system.
 
 ![ Spending ether on transaction using Metamask](/images/3.png)
 
-#### Institute dashboard of requested documents.
+#### Institute dashboard of requested documents:
+
+Displaying the institute's view for managing and responding to document requests.
 
 ![Institute dashboard of requested documents](/images/12.png)
 
-#### Representative view of the verified document
+#### Representative view of the verified document:
+
+Presenting how verified documents are represented in the system.
 
 ![Representative view of the verified document](/images/10.png)
 
