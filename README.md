@@ -63,7 +63,6 @@ Showing the options available to students for accessing their verified records p
 
 
 ### Instructions to run
-
 1) Install necessary dependencies using "npm install".
 
 2)Start the application with "npm start".
