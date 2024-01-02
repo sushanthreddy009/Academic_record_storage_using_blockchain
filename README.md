@@ -20,7 +20,6 @@ This project tackles the critical issue of securely storing and sharing educatio
     * Infura (Blockchain),
     * Metamask.
 
-
 #### The login-in interface for student and institute:
 
 Showcasing the entry point for users to access their respective dashboards.
