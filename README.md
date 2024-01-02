@@ -6,7 +6,6 @@ This project tackles the critical issue of securely storing and sharing educatio
     * Ethereum, 
     * Web3, 
     * Solidity,
-    * IPFS,
     * Truffle.
 * Front End (Web DApp)
     * React JS, 
@@ -55,11 +54,6 @@ Presenting how verified documents are represented in the system.
 
 ![Representative view of the verified document](/images/10.png)
 
-#### IPFS or Download view for the student after institute verification:
-
-Showing the options available to students for accessing their verified records post-institution verification.
-
-![IPFS or Download view for the student after institute verification](/images/11.png)
 
 
 ### Instructions to run
