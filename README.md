@@ -63,12 +63,14 @@ Showing the options available to students for accessing their verified records p
 
 
 ### Instructions to run
+
+
 1) Install necessary dependencies using "npm install".
 
-2)Start the application with "npm start".
+ 2) Start the application with "npm start".
 
-3)Set up Metamask and Ganache, and create an account.
+ 3) Set up Metamask and Ganache, and create an account.
 
-4)Import Ganache details into Metamask.
+ 4) Import Ganache details into Metamask.
 
-5)Access the application locally at "localhost:3000"
+ 5)Access the application locally at "localhost:3000"
